@@ -24,5 +24,5 @@ Keep track of where books are located in your home
 [Get the latest version here](https://github.com/JovanPaic/home-library-manager/releases/tag/Releases)
 
 ## License
-This project is licensed under the [MIT License](https://mit-license.org)
+This project is licensed under the [MIT License](https://opensource.org/license/MIT)
 

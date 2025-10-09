@@ -21,7 +21,7 @@ Store important details like author and genre
 Keep track of where books are located in your home
 
 ## Download
-[Get the latest version here](https://github.com/JovanPaic/home-library-manager/releases/tag/Releases)
+[Get the latest version here](https://github.com/JovanPaic/home-library-manager/releases)
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/license/MIT)

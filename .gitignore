@@ -1,0 +1,25 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+*.dotSettings
+
+## VS Code
+.vscode/
